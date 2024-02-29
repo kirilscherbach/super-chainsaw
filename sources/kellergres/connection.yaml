@@ -1,0 +1,7 @@
+# This file was automatically generated
+name: kellergres
+type: postgres
+options:
+  host: 192.168.2.131
+  port: 5432
+  database: scraper_db
